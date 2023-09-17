@@ -1,5 +1,4 @@
 ## SecureBallot
-# Online Voting System
 
 The Online Voting System is a web-based platform that allows eligible voters to exercise their voting rights conveniently and securely. This system simplifies the voting process, ensuring that citizens can cast their votes online after successful registration.
 
