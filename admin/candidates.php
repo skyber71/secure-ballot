@@ -9,6 +9,7 @@
     if (mysqli_num_rows($result)<1){
         $result = null;
     }
+    
 ?>
 
 <?php
